@@ -19,8 +19,8 @@ export const CartView = () => {
       <div className="text-center">
         <p>Your cart is empty</p>
         <p className="remark">
-          This app is only meant for demonstrating the basic usage of React
-          and Redux Toolkit. UI/UX and performance (lazy loading, caching,
+          This app is only meant for demonstrating the basic usage of React, 
+          Redux Toolkit, TypeScript, and Jest. UI/UX and performance (lazy loading, caching,
           etc.) optimization are not considered<br></br>
           <br></br>
           <a href="https://bit.ly/3WCFxD5">
